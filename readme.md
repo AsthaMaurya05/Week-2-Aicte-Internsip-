@@ -56,7 +56,7 @@ carbon_emission_project/
 ---
 
 ### 👨‍💻 Author
-**Your Name**  
+**Astha Maurya**  
 AI/ML Intern @ Skill4Future | Sustainable Energy Enthusiast 🌱  
 
 ---
